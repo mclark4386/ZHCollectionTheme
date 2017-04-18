@@ -2,7 +2,7 @@
     "name": "MadGlitchTheme",
     "description": "A dashboard collection theme",
     "demo": "https://madglitch.com",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "engines": {
         "ghost": ">=0.9.0 <1.0.0"
     },
