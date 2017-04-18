@@ -1,8 +1,8 @@
 {
-    "name": "ZHCollectionTheme",
+    "name": "MadGlitchTheme",
     "description": "A dashboard collection theme",
-    "demo": "https://www.babyshung.com",
-    "version": "1.1.0",
+    "demo": "https://madglitch.com",
+    "version": "0.0.1",
     "engines": {
         "ghost": ">=0.9.0 <1.0.0"
     },
@@ -11,11 +11,15 @@
         "desktop": "assets/screenshot-desktop.jpg",
         "mobile": "assets/screenshot-mobile.jpg"
     },
-    "author": {
+    "author": [{
         "name": "Hao Zheng",
         "email": "babyshung8@gmail.com",
         "url": "https://www.babyshung.com"
-    },
+    },{
+        "name": "Matt Clark",
+        "email": "mclark4386@gmail.com",
+        "url": "https://madglitch.com"
+    }],
     "gpm": {
         "type": "theme",
         "categories": [
@@ -24,14 +28,17 @@
         ]
     },
     "keywords": [
+	"madglitch",
+	"Matt Clark",
+	"Mad Glitch",
         "babyshung",
         "rnblue",
         "Hao Zheng"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BabyShung/rnblue"
+        "url": "https://github.com/mclark4386/ZHCollectionTheme"
     },
-    "bugs": "https://github.com/BabyShung/rnblue/issues",
-    "contributors": "https://github.com/BabyShung/rnblue/graphs/contributors"
+    "bugs": "https://github.com/mclark4386/ZHCollectionTheme/issues",
+    "contributors": "https://github.com/mclark4386/ZHCollectionTheme/graphs/contributors"
 }
